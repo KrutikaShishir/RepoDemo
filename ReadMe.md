@@ -29,7 +29,7 @@ Commmands
 >git pull 
 >git merge branch name 
 
-
+ 
 > git branch -d branchname
 
 
